@@ -3,7 +3,12 @@
 
 ### Hi there 👋
 
-[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/pratik-1999/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
+</a>
+<a href="https://github.com/pratik-1999/github-readme-stats">
+  <img align="right" width=410 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko" />
+</a>
 
 <!--
 **pratik-1999/pratik-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
