@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pratik-1999/pratik-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
