@@ -27,7 +27,9 @@ Apart from that, I'm available for freelance projects, pro bono consulting or ma
 <a href="https://twitter.com/_pandav7"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 ---
+
 <a href="https://github.com/pratik-1999/github-readme-stats">
   <img align="center" width=480 height=175 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
 </a>
