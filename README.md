@@ -31,14 +31,18 @@ Apart from that, I'm available for freelance projects, pro bono consulting or cr
 </p>
 
 ---
+<p align="center">
+<a href="https://github.com/pratik-1999/github-readme-stats">
+  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
+</a>
+</P>
 
+<p align="center">
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" width=480 height=175 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
-  <br>
+  <img align="middle" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko&show_icons=true" />
 </a>
-<a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" width=350 heigh=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999t&theme=merko" />
-</a>
+</P>
+
 
 
 <!--
