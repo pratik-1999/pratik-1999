@@ -3,6 +3,8 @@
 <img height=25 alt="GitHub followers" src="https://img.shields.io/github/followers/pratik-1999?label=Follow&style=social">
 <img height=25 alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_pandav7?label=Follow&style=social">
 <img height=25 alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdashprism.com">
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ### Hi there 👋
 
@@ -10,7 +12,7 @@
   <img align="center" width=480 height=175 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="right" width=350 heigh=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko" />
+  <img align="right" width=350 heigh=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko" />
 </a>
 
 
