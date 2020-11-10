@@ -1,9 +1,24 @@
 
 [![Header](https://github.com/pratik-1999/pratik-1999/blob/main/heade_image_prk.jpg "Header")](https://www.linkedin.com/in/pratikpandab)
-<img height=25 alt="GitHub followers" src="https://img.shields.io/github/followers/pratik-1999?label=Follow&style=social">
-<img height=25 alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_pandav7?label=Follow&style=social">
-<img height=25 alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdashprism.com">
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pratik-1999?label=Follow&style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_pandav7?label=Follow&style=social">
+
+
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=important)
+![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=important)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=important)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=white&color=important)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=important)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=important)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat-square&logo=react&logoColor=white&color=important)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=green)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat-square&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat-square&logo=html&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-CSS-informational?style=flat-square&logo=css&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Deploy-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deploy-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=2bbc8a)
+
 
 
 ### Hi there 👋
