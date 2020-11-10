@@ -1,7 +1,5 @@
 
 [![Header](https://github.com/pratik-1999/pratik-1999/blob/main/heade_image_prk.jpg "Header")](https://www.linkedin.com/in/pratikpandab)
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pratik-1999?label=Follow&style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_pandav7?label=Follow&style=social">
 
 
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=important)
@@ -22,6 +20,14 @@
 
 
 ### Hi there 👋
+I am a computer science student passionate about AI. I write a lot about Data Science, Computer Vision, Programming, and on Job hunting tips. Please, visit my [blog](https://dashprism.com/author/pratik-pandab/) :)  
+
+Apart from that, I'm available for freelance projects, pro bono consulting or making tech content for your organization. Just reach out! 
+<p align='center'>
+<a href="https://twitter.com/_pandav7"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 
 <a href="https://github.com/pratik-1999/github-readme-stats">
   <img align="center" width=480 height=175 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
