@@ -7,10 +7,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko" />
 </a>
 
 
