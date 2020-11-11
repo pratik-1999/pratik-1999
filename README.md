@@ -24,7 +24,7 @@ I am a computer science student passionate about AI and have worked at a number 
 
 I also write a lot about Data Science, Computer Vision, Programming, and Job hunting tips. Please, visit my [blog](https://dashprism.com/author/pratik-pandab/) :)  
 
-Apart from that, I'm available for freelance projects 🔭, pro bono consulting 💬 or creating tech content 🌱 for your organization. Just reach out!
+Apart from that, I'm available for freelance projects 🔭, pro bono consulting 💬 or creating tech content 🌱 for your organization. Just reach out! 📫
 <p align='center'>
 <a href="https://twitter.com/_pandav7"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="./assets/linkedin.png"></a>
@@ -33,7 +33,7 @@ Apart from that, I'm available for freelance projects 🔭, pro bono consulting 
 ---
 <p align="center">
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=dark&show_icons=true" />
+  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=monodark&show_icons=true" />
 </a>
 </P>
 
