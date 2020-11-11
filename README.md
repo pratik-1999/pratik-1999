@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/pratik-1999/pratik-1999/blob/main/heade_image_prk.jpg "Header")](https://www.linkedin.com/in/pratikpandab)
+[![Header](assets/heade_image.jpg "Header")](https://www.linkedin.com/in/pratikpandab)
 
 
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=important)
@@ -24,10 +24,10 @@ I am a computer science student passionate about AI and have worked at a number 
 
 I also write a lot about Data Science, Computer Vision, Programming, and Job hunting tips. Please, visit my [blog](https://dashprism.com/author/pratik-pandab/) :)  
 
-Apart from that, I'm available for freelance projects, pro bono consulting or creating tech content for your organization. Just reach out! 
+Apart from that, I'm available for freelance projects 🔭, pro bono consulting 💬 or creating tech content 🌱 for your organization. Just reach out!
 <p align='center'>
-<a href="https://twitter.com/_pandav7"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/_pandav7"><img height="30" src="assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="assets/linkedin.png"></a>
 </p>
 
 ---
@@ -37,11 +37,11 @@ Apart from that, I'm available for freelance projects, pro bono consulting or cr
 </a>
 </P>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/pratik-1999/github-readme-stats">
   <img align="middle" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko&show_icons=true" />
 </a>
-</P>
+</P> -->
 
 
 
