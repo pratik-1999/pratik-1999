@@ -1,5 +1,5 @@
 
-[![Header](assets/heade_image.jpg "Header")](https://www.linkedin.com/in/pratikpandab)
+[![Header](https://github.com/pratik-1999/pratik-1999/blob/main/assets/header_image.jpg "Header")](https://www.linkedin.com/in/pratikpandab)
 
 
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=important)
@@ -26,8 +26,8 @@ I also write a lot about Data Science, Computer Vision, Programming, and Job hun
 
 Apart from that, I'm available for freelance projects 🔭, pro bono consulting 💬 or creating tech content 🌱 for your organization. Just reach out!
 <p align='center'>
-<a href="https://twitter.com/_pandav7"><img height="30" src="assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="assets/linkedin.png"></a>
+<a href="https://twitter.com/_pandav7"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="./assets/linkedin.png"></a>
 </p>
 
 ---
