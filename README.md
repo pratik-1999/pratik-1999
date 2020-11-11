@@ -33,11 +33,11 @@ Apart from that, I'm available for freelance projects 🔭, pro bono consulting 
 ---
 <p align="center">
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=onedark&show_icons=true" />
+  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 </P>
 
-<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, #highcontrast, dracula-->
+<!--dark, radical, merko, gruvbox, tokyonight, #onedark, cobalt, synthwave, #highcontrast, dracula-->
 
 <!-- <p align="center">
 <a href="https://github.com/pratik-1999/github-readme-stats">
