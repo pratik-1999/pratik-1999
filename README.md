@@ -33,7 +33,7 @@ Apart from that, I'm available for freelance projects 🔭, pro bono consulting 
 ---
 <p align="center">
 <a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=dracula&show_icons=true" />
+  <img align="center" width=700 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=highcontrast&show_icons=true" />
 </a>
 </P>
 
