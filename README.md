@@ -31,19 +31,6 @@ Apart from that, I'm available for freelance projects 🔭, pro bono consulting 
 </p>
 
 ---
-<p align="center">
-<a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="center" width=600 src="https://github-readme-stats.vercel.app/api?username=pratik-1999&count_private=true&theme=radical&show_icons=true" />
-</a>
-</P>
-
-<!--dark, radical, merko, gruvbox, tokyonight, #onedark, cobalt, synthwave, #highcontrast, dracula-->
-
-<!-- <p align="center">
-<a href="https://github.com/pratik-1999/github-readme-stats">
-  <img align="middle" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-1999&layout=compact&theme=merko&show_icons=true" />
-</a>
-</P> -->
 
 
 
