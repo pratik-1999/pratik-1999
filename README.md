@@ -20,13 +20,10 @@
 
 
 ### Hi there 👋
-I am a computer science student passionate about AI and have worked at a number of promising startups developing impactful products. I have research experience in recommendation systems, collaborative filtering and have published a patent recently.  
+I am a CS Grad, passionate about AI and have worked at a number of promising startups developing impactful products. I have research experience in Recommendation Systems, Collaborative Filtering and have published a patent on a Soil Monitoring Device recently.    
 
-I also write a lot about Data Science, Computer Vision, Programming, and Job hunting tips. Please, visit my [blog](https://dashprism.com/author/pratik-pandab/) :)  
-
-Apart from that, I'm available for freelance projects 🔭, pro bono consulting 💬 or creating tech content 🌱 for your organization. Just reach out! 📫
+I'm available for freelance projects 🔭, pro bono consulting 💬 or creating tech content 🌱 for your organization. Just reach out! 📫
 <p align='center'>
-<a href="https://twitter.com/_pandav7"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pratikpandab"><img height="30" src="./assets/linkedin.png"></a>
 </p>
 
